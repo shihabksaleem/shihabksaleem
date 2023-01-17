@@ -1,7 +1,7 @@
 [![MasterHead](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)](https://www.linkedin.com/in/shihab-k-saleem-3b526a151/)
 <h1 align="center">Hi 👋, I'm Shihab</h1>
 <h3 align="center">A passionate Flutter Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabksaleem&label=Profile%20views&color=0e75b6&style=flat" alt="shihabksaleem" /> </p>
 
